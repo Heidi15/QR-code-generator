@@ -1,0 +1,56 @@
+# 🚀 Générateur de QR Code 
+### 🚀 Générateur de QR code simplet et instantané
+Ce projet est une application web minimaliste et réactive qui permet aux utilisateurs de **générer des codes QR** en temps réel à partir d'une simple entrée de texte ou d'une URL.
+Il a été conçu pour être rapide** et simple d'utilisation pour démontrer une maîtrise des technologies web front-end de base.
+
+### 🛠️ Technologies Utilisées
+**HTML5**: Structure de base et sémantique.
+
+**CSS3**: Mise en page, style moderne et responsive design.
+
+**JavaScript**: Logique de l'application, gestion des événements et manipulation du DOM.
+
+Utilisation de la bibliothèque qrcode.js  pour la génération du motif du code QR.
+
+###✨ Fonctionnalités Clés
+**Génération Instantanée**: Le code QR se met à jour en temps réel dès que l'utilisateur tape du texte.
+
+**Validation d'Entrée**: Le code QR apparaît uniquement si le champ d'entrée contient du texte.
+
+**Design Responsive**: L'interface s'adapte parfaitement aux ordinateurs de bureau et aux appareils mobiles.
+
+**Code Propre**: Utilisation de JavaScript pure pour une performance maximale et une maintenance facile.
+
+###💻 Installation et Utilisation
+Ce projet est purement front-end et ne nécessite aucune installation de serveur ou de dépendances complexes.
+
+**1. Cloner le projet**
+git clone https://github.com/Heidi15/QR-code-generator.git
+
+**2. Démarrer**
+
+Ouvrez le dossier du projet.
+
+Double-cliquez sur le fichier index.html pour l'ouvrir dans votre navigateur web préféré.
+
+**3. Utilisation**
+
+Entrez le texte ou l'URL que vous souhaitez encoder dans le champ prévu à cet effet.
+
+Le code QR s'affichera instantanément en dessous.
+
+###🚀 Améliorations Futures Possibles
+
+Option de Téléchargement: Ajouter un bouton pour permettre à l'utilisateur de télécharger le code QR généré au format PNG ou SVG.
+
+**Personnalisation**: Permettre de choisir la couleur du QR Code ou la taille du module.
+
+**Historique Local**: Utiliser le localStorage de JavaScript pour enregistrer les derniers codes générés.
+
+
+###✍️ Auteur
+Ce projet a été réalisé par **Heidi IROUDAYARADJOU**.
+
+
+
+
