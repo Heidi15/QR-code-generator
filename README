@@ -32,5 +32,29 @@ Ce projet est **purement *front-end*** et ne nécessite aucune installation de s
 
 ### 1. **Cloner le projet**
 
-```bash
-git clone [https://github.com/Heidi15/QR-code-generator.git](https://github.com/Heidi15/QR-code-generator.git)
+git clone https://github.com/Heidi15/QR-code-generator.git
+
+### 2. **Démarrer**
+
+1.  Ouvrez le dossier du projet.
+2.  Double-cliquez sur le fichier `index.html` pour l'ouvrir dans votre navigateur web préféré.
+
+### 3. **Utilisation**
+
+Entrez le texte ou l'URL que vous souhaitez encoder dans le champ prévu à cet effet.
+
+Le code QR s'affichera instantanément en dessous.
+
+***
+
+### 🚀 **Améliorations Futures Possibles**
+
+* Option de Téléchargement: Ajouter un bouton pour permettre à l'utilisateur de télécharger le code QR généré au format PNG ou SVG.
+* **Personnalisation**: Permettre de choisir la couleur du QR Code ou la taille du module.
+* **Historique Local**: Utiliser le `localStorage` de JavaScript pour enregistrer les derniers codes générés.
+
+***
+
+### ✍️ **Auteur**
+
+Ce projet a été réalisé par **Heidi IROUDAYARADJOU**.
